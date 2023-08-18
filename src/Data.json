@@ -1,0 +1,29 @@
+[
+    {
+      "name": "John Doe",
+      "email": "john@example.com",
+      "website": "https://johndoe.com",
+      "imageLink": "https://example.com/john.jpg",
+      "gender": "male",
+      "skills": {
+        "java": true,
+        "html": true,
+        "css": false,
+        "python": false
+      }
+    },
+    {
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "website": "https://janesmith.com",
+      "imageLink": "https://example.com/jane.jpg",
+      "gender": "female",
+      "skills": {
+        "java": false,
+        "html": true,
+        "css": true,
+        "python": true
+      }
+    }
+  ]
+  
